@@ -1,0 +1,6 @@
+Knowledge Constellation Unified API running on port 4000
+Access the API at http://localhost:4000
+[2025-04-18T04:51:20.111Z] GET /api/v1/relationships
+[2025-04-18T04:51:27.808Z] GET /favicon.ico
+[2025-04-18T04:51:27.847Z] GET /api/v1/visualization/graph
+[2025-04-18T04:51:45.303Z] GET /health
